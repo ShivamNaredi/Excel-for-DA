@@ -1,0 +1,27 @@
+# Topics Covered in Excel
+
+- Excel Introduction  
+- Introduction to MS Excel and Beginner's Guide  
+- Basic Functions of Excel  
+- Basics of Formatting in Excel  
+- Sorting Data in Excel - Different Methods to Sort  
+- Filtering Data in Excel  
+- Basics of Formula/Functions  
+- Text Functions in Excel  
+- IF, AND and OR Functions in Excel  
+- Date & Time Functions in Excel  
+- COUNTIF, COUNTIFS, SUMIF, SUMIFS - Functions in Excel  
+- Data Validation in Excel  
+- VLOOKUP in Excel  
+- HLOOKUP in Excel  
+- LOOKUP in Excel  
+- XLOOKUP in Excel  
+- INDEX + MATCH in Excel  
+- Using Conditional Formatting  
+- Macros in Excel  
+- Summarizing Data with Pivot Tables  
+- Working with Slicers  
+- Power Query in Excel  
+- Power Pivot in Excel  
+- Visualizing Data with Charts  
+- Excel Dashboard  
